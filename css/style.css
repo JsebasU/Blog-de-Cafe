@@ -65,6 +65,22 @@ img{
     background-image: url(../img/banner.jpg);
 }
 
+.error {
+    background-color: red;
+    text-align: center;
+    padding: 1rem;
+    color: var(--Blanco);
+    text-transform: uppercase;
+}
+
+.exito {
+    background-color: green;
+    text-align: center;
+    padding: 1rem;
+    color: var(--Blanco);
+    text-transform: uppercase;
+}
+
 .header{
     height: 68rem;
     background-size: cover;
@@ -255,3 +271,4 @@ img{
     height: 20rem;
     
 }
+
